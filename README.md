@@ -1,5 +1,7 @@
 ## Make Your First Open Source Contribution in Hacktoberfest2021:rocket:
 
+<img src="https://github.com/bhavesh1129/First-Hacktoberfest2021-Contribution/blob/main/img/logo.svg" height="300px" width="500px"></img>
+
 I created a simple website for all the newbies who wants to make their first **Pull Request** in **Hacktoberfest2021**. <br/>
 Check it out here: https://bhavesh1129-first-hacktoberfest2021-contribution.netlify.app/
 
