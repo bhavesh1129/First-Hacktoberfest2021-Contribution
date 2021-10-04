@@ -6,14 +6,16 @@
 <img src="https://github.com/bhavesh1129/First-Hacktoberfest2021-Contribution/blob/main/img/logo.svg" height="300px" width="500px"></img>
 
 </p>
-### I created a simple website for all the newbies who wants to make their first **Pull Request** in **Hacktoberfest2021**. <br/>
-### Check it out here 🧐 : https://bhavesh1129-first-hacktoberfest2021-contribution.netlify.app/
+
+##  I created a simple website for all the newbies who wants to make their first **Pull Request** in **Hacktoberfest2021**. <br/>
+##  Check it out here 🧐 : https://bhavesh1129-first-hacktoberfest2021-contribution.netlify.app/
 
 In order to make a hassle-free environment, I implore you all (_while contributing_) to follow the instructions mentioned below!
 
 # Contribution is fun! 🧡
 
 ## 📌 Tech Stack
+
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
 
