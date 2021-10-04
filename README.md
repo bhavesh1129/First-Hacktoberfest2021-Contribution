@@ -1,11 +1,12 @@
 
-# Hacktoberfest 2021
+# Hacktoberfest 2021 👋
 ## Make Your First Open Source Contribution in Hacktoberfest2021:rocket:
 
 <img src="https://github.com/bhavesh1129/First-Hacktoberfest2021-Contribution/blob/main/img/logo.svg" height="300px" width="500px"></img>
 
-I created a simple website for all the newbies who wants to make their first **Pull Request** in **Hacktoberfest2021**. <br/>
-Check it out here: https://bhavesh1129-first-hacktoberfest2021-contribution.netlify.app/
+### I created a simple website for all the newbies who wants to make their first **Pull Request** in **Hacktoberfest2021**. <br/>
+### Check it out here 🧐 : https://bhavesh1129-first-hacktoberfest2021-contribution.netlify.app/
+
 In order to make a hassle-free environment, I implore you all (_while contributing_) to follow the instructions mentioned below!
 
 # Contribution is fun! 🧡
@@ -38,8 +39,6 @@ Kindly use this format:
 **9.**   And finally make a new PR.:partying_face:
 ```
 
-
-
 ---------
 
 ```javascript
@@ -52,5 +51,6 @@ if (isAwesome) {
 ```
 
 -----------
+![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
 
 ### Happy hacking!:sunglasses:
