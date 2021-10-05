@@ -24,16 +24,16 @@ In order to make a hassle-free environment, I implore you all (_while contributi
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-# What can you contribute? 🤨
+## What can you contribute? 🤨
 There is always something to contribute to a project whether you are a novice or a veteran. In this project, you can add your favourite character as a card to the website! Or maybe you didn't like the line that you are reading right now and want to change that.Sure! Why not?
 
-# How can you contribute? 🤨
+## How can you contribute? 🤨
 To contribute in Hacktoberfest2021 , checkout the given link and win hactoberfest t-shirt ...
 https://hacktoberfest.digitalocean.com/
 And That's It!
 Follow these steps to make your very first Pull request.
 
-# How does it work? 🧐
+## How does it work? 🧐
 Hacktoberfest is open to everyone in our global community!
 
 • Maintainers determine if their open-source projects participate by adding the ‘hacktoberfest’ topic.
@@ -42,7 +42,7 @@ Hacktoberfest is open to everyone in our global community!
 
 • Engaged maintenance of Hacktoberfest tagged repositories are rewarded.
 
-# What are the Rules? 📝
+## What are the Rules? 📝
 Pull requests can be made in any participating GitHub or GitLab hosted repository/projects. Look for the 'hacktoberfest' topic to know if a project is participating in Hacktoberfest.
 
 • You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
