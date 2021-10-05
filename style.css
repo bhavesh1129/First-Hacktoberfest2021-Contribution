@@ -2,13 +2,15 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: #2B3531;
-    color: #ff9a56;
+    color: #ff6600;
     text-align: center;
 }
 
+
 body {
+    background-image: url(/img/bg2.jpg);
     font-family: 'Poppins', sans-serif;
+    padding: 50px;
 }
 
 .content {
@@ -34,7 +36,7 @@ i.fas {
 }
 
 i.fab {
-    color: #2B78C1;
+    color: #0565bf;
 }
 
 i:hover {
@@ -60,7 +62,7 @@ img {
 
 .contributors a:not(:last-of-type)::after {
     content: " |";
-    color: #ff9a56;
+    color: #ff7e29;
 }
 
 @media (max-width: 600px) {
@@ -75,3 +77,8 @@ img {
         content: "";
     }
 }
+
+.contributors a {position: relative;}
+.contributors a span {position: absolute; display: none; margin-left: auto; margin-right: auto; left: 0 ; }
+.contributors a span img{border-radius: 80px;}
+.contributors a:hover span {display: block;}
