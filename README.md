@@ -11,12 +11,9 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 * Organize an event
 * Mentor others
 * Donate directly to open source projects
-<br>
-<br>
 
-
-##  I created a simple website for all the newbies who wants to make their first **Pull Request** in **Hacktoberfest2021**. <br/>
-##  Check it out here 🧐 : https://bhavesh1129-first-hacktoberfest2021-contribution.netlify.app/
+###  I created a simple website for all the newbies who wants to make their first **Pull Request** in **Hacktoberfest2021**. <br/>
+####  Check it out here 🧐 : https://bhavesh1129-first-hacktoberfest2021-contribution.netlify.app/
 
 In order to make a hassle-free environment, I implore you all (_while contributing_) to follow the instructions mentioned below!
 
@@ -72,8 +69,9 @@ To start contributing, follow the below guidelines:
 3.   Open the index.html file in your editor
 4.   Now edit the index.html file and add your Github Username
 5.   Also add your github account URL in href of a tag.
+
      Kindly use this format:
-     <a href="https://github.com/bhavesh1129" target="_blank">Bhavesh1129</a>
+     <a href="https://github.com/bhavesh1129" target="_blank">Bhavesh1129<span><img src="/img/hoverimage.jfif" alt="image" height="120" width="150"></span></a>
 
 6.   Add your changes
 7.   Then Commit your changes
