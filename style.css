@@ -8,9 +8,11 @@
 
 
 body {
-    background-image: url(/img/bg2.jpg);
+    background-image: url(/img/ajit-singh-as3yY6FlKo8-unsplash.jpg);
     font-family: 'Poppins', sans-serif;
     padding: 50px;
+    background-position: cover;
+    background-repeat: no-repeat;
 }
 
 .content {
@@ -19,9 +21,9 @@ body {
 }
 
 h1 {
-    color: #01ffff;
+    color: black;
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
 
 a {
@@ -32,7 +34,9 @@ a {
 }
 
 i.fas {
-    color: #01ffff;
+    color: black;
+    text-align: center;
+    margin-bottom: 0px;;
 }
 
 i.fab {
@@ -40,17 +44,17 @@ i.fab {
 }
 
 i:hover {
-    color: #01ffff;
+    color: #769494;
 }
 
 a:hover,
 a:focus {
-    color: #01ffff;
+    color: black;
 }
 
 img {
-    max-width: 80%;
-    padding: 5%;
+    max-width: 75%;
+    padding: 1%;
 }
 
 .contributors {
