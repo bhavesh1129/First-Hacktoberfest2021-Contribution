@@ -40,7 +40,7 @@ Kindly use this format:
 6.   Add your changes
 7.   Then Commit your changes
 8.   And Push your code
-9.   And finally make a new PR.:partying_face:
+9.   And finally make a new PR.🥳
 ```
 
 
