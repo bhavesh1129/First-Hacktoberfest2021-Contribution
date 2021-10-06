@@ -8,11 +8,13 @@
 
 
 body {
-    background-image: url(/img/ajit-singh-as3yY6FlKo8-unsplash.jpg);
+    background: url(/img/ajit-singh-as3yY6FlKo8-unsplash.jpg) no-repeat center center fixed;
     font-family: 'Poppins', sans-serif;
     padding: 50px;
-    background-position: cover;
-    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .content {
