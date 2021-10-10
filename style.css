@@ -88,3 +88,26 @@ img {
 .contributors a span {position: absolute; display: none; margin-left: auto; margin-right: auto; left: 0 ; }
 .contributors a span img{border-radius: 80px;}
 .contributors a:hover span {display: block;}
+
+
+/* hacktober logo design */
+.hacktoberfestLogo{
+    width: 43rem;
+    margin: 5rem 0 5rem 0;
+}
+
+/* nav bar */
+.MainNav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 30rem;
+}
+.listNav{
+    float: left;
+    display: inline;
+}
+.listNav a{
+    padding: 14px 16px;
+}
