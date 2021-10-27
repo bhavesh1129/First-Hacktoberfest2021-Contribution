@@ -3,7 +3,8 @@
 ## Make Your First Open Source Contribution in Hacktoberfest2021:rocket:
 <p align="center">
  
-<img src="https://github.com/bhavesh1129/First-Hacktoberfest2021-Contribution/blob/main/img/logo.svg" height="300px" width="500px"></img>
+
+<img src="https://github.com/shashwatbangar/First-Hacktoberfest2021-Contribution/blob/main/img/logo.svg" height="300px" width="500px"></img>
 
 Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. You can do this in a variety of ways:
 * Prepare and share your project for collaboration
@@ -71,7 +72,7 @@ To start contributing, follow the below guidelines:
 5.   Also add your github account URL in href of a tag.
 
      Kindly use this format:
-     <a href="https://github.com/bhavesh1129" target="_blank">Bhavesh1129<span><img src="/img/hoverimage.jfif" alt="image" height="120" width="150"></span></a>
+     <a href="https://github.com/shashwatbangar" target="_blank">shashwatbangar <span><img src="/img/hoverimage.jfif" alt="image" height="120" width="150"/></span></a>
 
 6.   Add your changes
 7.   Then Commit your changes
